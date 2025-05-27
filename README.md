@@ -10,6 +10,9 @@ A personal learning repository with service desk process notes and small automat
 
 - **[Major-Incident Bridge Playbook](MI-Bridge-Playbook.md)**  
   A simple step-by-step guide for running a major incident (P1) bridge call.
+- **[P1 Pager (Python)](p1-pager/README.md)**
+  tiny script that sends a Slack alert for open P1s
+
 
 ---
 
